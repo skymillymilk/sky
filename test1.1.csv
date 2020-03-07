@@ -1,0 +1,31 @@
+Code,Mushroom (g),PH,Humidity(in),temperature,Humidity(out),weigh(g),result,mushroom cycle
+A1,800,7,6.9,25,75,70,Yes, product
+A2,850,7,9.8,25,75,0,No,small 1
+A3,840,7,9.2,25,75,0,No,small 1
+A4,840,7,8,25,75,0,No,small2
+A5,800,7,9.2,25,75,0,No,n
+A6,840,7,9,25,75,0,No,small2
+A7,810,7,7.8,25,75,0,No,small 1
+A8,800,7,8,25,75,0,No,small 1 
+A9,810,7,8,25,75,0,No,small 2
+A10,780,7,6.8,25,75,0,No,small 2 
+A11,810,7,7.8,25,75,0,No,small 1
+A12,820,7,9,25,75,0,No,small 1
+A13,810,7,8.2,25,75,0,No,small 2
+A14,810,7,9.2,25,75,0,No,waite
+A15,850,7,7.2,25,75,0,No,waite
+A16,760,7,8.9,25,75,0,No,small 1
+A17,820,7,3,25,75,10,Yes,product
+A18,880,7,9.2,25,75,0,No,small 2
+A19,850,7,9.2,25,75,0,No,small 1
+A20,850,7,9.2,25,75,0,No,small 2
+A21,890,7,9.8,25,75,0,No,small 2
+A22,840,7,10,25,75,0,No,small 2
+A23,840,7,8,25,75,0,No,waite
+A24,860,7.2,8,25,75,80,Yes,product
+A25,830,7,9.8,25,75,0,No,waite
+A26,820,7,9,25,75,0,No,small 2
+A27,880,7,9.2,25,75,0,No,small 2
+A28,860,7,9,25,75,0,No,small 2
+A29,830,7,9,25,75,0,No,n
+A30,830,7,8.8,25,75,0,No,small 2
