@@ -2020,7 +2020,7 @@ Date,Code,weigh,temperature,Humidity(out),PH,Humidity,sum,result
 18,A68,0,25,75,7,6.9,0,fail
 19,A68,0,25,75,7,5.5,0,fail
 20,A68,0,25,75,7,6,0,fail
-21,A68,0,25,75,7,5..8,0,fail
+21,A68,0,25,75,7,5.8,0,fail
 22,A68,70,25,75,7,6.8,100,normal
 23,A68,0,25,75,7.3,8.5,0,fail
 24,A68,0,25,75,7.3,7.5,0,fail
